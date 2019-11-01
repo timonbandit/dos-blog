@@ -1,5 +1,5 @@
 {
-  "name": "dos-post-reader",
+  "name": "dos-posts-reader",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,7 +11,8 @@
     "core-js": "^3.3.2",
     "register-service-worker": "^1.6.2",
     "vue": "^2.6.10",
-    "vue-router": "^3.1.3"
+    "vue-router": "^3.1.3",
+    "bootstrap-dos": "kristopolous/BOOTSTRA.386"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.0.0",
