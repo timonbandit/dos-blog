@@ -2,7 +2,9 @@
   <div id="app">
     <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
-        <a class="brand" href="/">Best Blogs Software 1990 (BBS 1990)</a>
+        <a
+          class="brand"
+          href="/">Best Blogs Software 1990 (BBS 1990)</a>
       </div>
     </div>
     <div class="container">

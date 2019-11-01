@@ -49,7 +49,10 @@
         class="comment alert alert-block">
         <span class="badge">{{ comment.id }}</span>
         <span class="label label-success">{{ comment.email }}</span>
-        <img src="https://placehold.it/75/75" alt="" class="thumbnail">
+        <img
+          src="https://placehold.it/75/75"
+          alt=""
+          class="thumbnail">
         <span class="comment__test">{{ comment.body }}</span>
       </div>
     </div>

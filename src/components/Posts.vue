@@ -1,8 +1,9 @@
 <template>
   <div class="blog-records">
-    <div v-for="post in posts"
-         :key="post.id"
-         class="col-md-6 col-md-offset-3 col-sm-12">
+    <div
+      v-for="post in posts"
+      :key="post.id"
+      class="col-md-6 col-md-offset-3 col-sm-12">
       <post-record :post-data="post"/>
     </div>
   </div>
