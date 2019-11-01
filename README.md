@@ -1,4 +1,4 @@
-# dos-post-reader
+# Vue.js test Blog
 
 ## Project setup
 ```
@@ -22,4 +22,4 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# Vue.js test Blog
+
